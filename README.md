@@ -58,7 +58,7 @@ This web application for FusionPBX. When installed you won't have to enter the e
 
 ```
 cd /usr/src/
-git clone https://github.com/amitiyer/Fusionpbx-WEBRTC.git
+git clone https://github.com/natty-avi/Fusionpbx-WEBRTC.git
 cd Fusionpbx-WEBRTC
 cp -R Browser-Phone /var/www/fusionpbx/
 cp -R core/phone  /var/www/fusionpbx/core/
